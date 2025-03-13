@@ -1,0 +1,2 @@
+# ShopSphere
+An ecommerce platform
